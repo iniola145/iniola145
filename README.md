@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on developing websites and python programming
+- 🌱 I’m currently learning python and javascript
+- ⚡ Fun fact: The first website ever created, which is still online today, was purely front-end with simple HTML! Visit it at http://info.cern.ch/.
+- 📫 How to reach me:
+- linkedin: https://www.linkedin.com/in/mark-olamide/
+- twitter: https://twitter.com/iniola145
 <!--
 **iniola145/iniola145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
